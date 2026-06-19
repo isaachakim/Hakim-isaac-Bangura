@@ -1,0 +1,6 @@
+{
+  "name": "Hakim Isaac Customer Voice Service",
+  "description": "Multi-lingual business voice assistant & scheduling platform by Hakim Isaac, powered by real-time voice streaming.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
